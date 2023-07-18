@@ -1,0 +1,5 @@
+#variable in python
+number1 = str(6)
+number2 = float("45")
+number3 = ("56")
+print(number1 + number2)

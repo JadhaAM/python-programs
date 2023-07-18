@@ -1,0 +1,5 @@
+print('this is \\\\ double backslash')
+print("this is /\\/\\/\\/\\ montain")
+print('he is \t\t\t awesome')
+print(" \\\" \\n \\t \\\' ")
+print("\U0001F602")

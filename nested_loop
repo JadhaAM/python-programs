@@ -1,0 +1,7 @@
+a="12345"
+b=""
+for num in a:
+    b=b+num
+    print(b)
+
+    
